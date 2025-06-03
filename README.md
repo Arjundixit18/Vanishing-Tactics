@@ -1,0 +1,2 @@
+# Vanishing-Tactics---A-Dynamic-Tic-Tac-Toe-Twist-with-Fading-Strategy
+Vanishing Tactics is a reimagined, animated version of the classic Tic Tac Toe game, built using Python and Pygame. This isn't your ordinary grid battle—every move comes with a cost. Each player can only have 3 active moves at a time, with older ones fading into oblivion. It’s fast, visual, strategic, and wrapped in a polished UI.
