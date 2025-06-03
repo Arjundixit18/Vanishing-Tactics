@@ -9,7 +9,11 @@
 ## 🔮 Preview
 
 <p align="center">
-  <img src="https://github.com/arjundixit18/Vanishing-Tactics/blob/main/SS.png" alt="Vanishing Tactics Preview" width="500"/>
+  <img src="https://github.com/Arjundixit18/Vanishing-Tactics/blob/main/Result1.png" alt="Vanishing Tactics Preview" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arjundixit18/Vanishing-Tactics/blob/main/Result2.png" alt="Vanishing Tactics Preview" width="500"/>
 </p>
 
 ---
